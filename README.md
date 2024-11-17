@@ -4,7 +4,7 @@
 
 ## Resources
 ### C++
-* [Christmas 2019 Class - Understanding C++ Through Lambdas][jturner-1], by **Jason Turner**
+* [Christmas 2019 Class – Understanding C++ Through Lambdas][jturner-1], by **Jason Turner**
 
 ### Mathematics
 
@@ -19,13 +19,14 @@ Pure Mathematics:
 
 Other:
 * [*Linear Algebra Done Wrong*][streil-1], by **Sergei Treil**
-* [All of Statistics - *A Concise Course in Statistical Inference*][larryw-1], by **Larry Wasserman**
-* [*The Elements of Statistical Learning*][thastie-1]
+* [*All of Statistics*][larryw-1], by **Larry Wasserman**
+* [*The Elements of Statistical Learning*][thastie-1] (ESL)
   * by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
-* [Stochastic Calculus for Finance II - *Continuous-Time Models*][shreve-1], by **Steven Shreve**
+* [Stochastic Calculus for Finance II – *Continuous-Time Models*][shreve-1], by **Steven Shreve**
 
 
 ### Sports Programming
+* [AtCoder][ac-1]
 * [Codeforces – *Catalog*][cf-1]
 * [*Sports programming in practice*][bkostka-1], by **Bartosz Kostka**
 
@@ -42,5 +43,6 @@ Other:
 [streil-1]: https://www.math.brown.edu/streil/papers/LADW/LADW.html
 [thastie-1]: https://hastie.su.domains/ElemStatLearn/
 
+[ac-1]: https://atcoder.jp/
 [bkostka-1]: https://kostka.dev/sp/
 [cf-1]: https://codeforces.com/catalog
